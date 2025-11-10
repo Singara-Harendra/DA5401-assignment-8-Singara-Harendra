@@ -1,3 +1,9 @@
+
+👨‍💻 Author
+Name : Singara Harendra
+
+Roll Number : DA25M028
+
 # 🚲 Ensemble Learning for Complex Regression Modeling on Bike Share Data
 
 ### 📘 Course: DA5401 — Assignment 8  
